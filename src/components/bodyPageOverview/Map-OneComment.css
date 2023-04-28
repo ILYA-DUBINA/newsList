@@ -1,0 +1,37 @@
+.noMovie {
+  color: red;
+}
+.comment {
+  padding: 0 0 20px 0;
+
+  cursor: pointer;
+}
+.header__content-listKids {
+  padding: 80px 10px 0 30px;
+
+  cursor: default;
+}
+.comment__name {
+  border-top-right-radius: 0;
+  border-top-left-radius: 70px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 70px;
+}
+.comment__text {
+  font-size: 14px;
+
+  text-align: left;
+
+  color: blue;
+}
+.news__kidsComments {
+  font-size: 12px;
+  text-align: right;
+
+  padding: 10px 20px 0 20px;
+
+  color: blue;
+}
+.news__kidsComments b {
+  color: green;
+}

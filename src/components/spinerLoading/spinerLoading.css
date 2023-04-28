@@ -1,0 +1,15 @@
+.example {
+  font-size: 20px;
+  text-align: center;
+
+  margin: 20px 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  border-radius: 4px;
+
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.example {
+  background: rgba(255, 255, 255, 0.08);
+}
